@@ -1,0 +1,31 @@
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+/* Header Styling */
+header {
+    background-color: #000000;
+    color: gold;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/*  Nav Main, and Aside Styling  */
+nav, main, aside {
+    float: left;
+    width: 28%;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightblue;
+    box-sizing: border-box; 
+}
+/* Footer Styling  */
+footer {
+    clear: both;
+    background-color: #000000;
+    color: gold;
+    text-align: center;
+    padding: 10px ;
+    margin-top: 20px;
+}
